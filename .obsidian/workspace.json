@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "8d4c26838c54ce96",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef307a7fbec8736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7d06aca5824f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab9965f2c2cf0129",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea51568287f600c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379ea336643c6ac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a8070674c9948da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24af465d1fb2eef2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b730c084e3cf0dcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1075578b2530315c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e1ebf0f8600b2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881"
+            }
+          },
+          {
+            "id": "26cbc29195b2bace",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881"
+            }
+          },
+          {
+            "id": "44d448a2d708adb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "050c8a51a49cad4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad7d06aca5824f8c",
+  "lastOpenFiles": [
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7.md",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Robots not allowed 24ca4a579e0d805dad01eb5d5f81e7b6.md",
+    "Limbo Hacker Association/Web Just What you Think/image 4.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881/image.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881/image 5.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881/image 4.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881/image 3.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881/image 2.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881/image 1.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Robots not allowed 24ca4a579e0d805dad01eb5d5f81e7b6/image.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Robots not allowed 24ca4a579e0d805dad01eb5d5f81e7b6/image 5.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Robots not allowed 24ca4a579e0d805dad01eb5d5f81e7b6/image 4.png",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Robots not allowed 24ca4a579e0d805dad01eb5d5f81e7b6",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think 24ca4a579e0d8069ae54f54bd5239881.md",
+    "Limbo Hacker Association/Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7",
+    "Limbo Hacker Association/Web Robots not allowed/Web Robots not allowed.md",
+    "Limbo Hacker Association/Web Just What you Think/Web Just What you Think.md",
+    "Web Robots not allowed 24ca4a579e0d805dad01eb5d5f81e7b6/image.png.md",
+    "Web Robots not allowed 24ca4a579e0d805dad01eb5d5f81e7b6",
+    "Limbo Hacker Association/Limbo Hacker Association.md",
+    "Limbo Hacker Association/Web Just What you Think",
+    "Limbo Hacker Association/Web Robots not allowed",
+    "Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Robots not allowed.md",
+    "Limbo Hacker Association 24ca4a579e0d8087adf6c5b524ba0bd7/Web Just What you Think.md"
+  ]
+}

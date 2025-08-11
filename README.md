@@ -1,2 +1,1 @@
-# CTFs-Write-ups-
-A collection of CTF challenges I've solved, along with my personal write-ups and solutions. These challenges range from beginner to advanced, and I’ve shared my process to help others learn or gain new insights into solving CTFs and security problems.
+This repository contains a collection of CTF challenges I’ve solved, along with my write-ups and solutions. These are CTFs I’ve gone through, enjoyed, or found interesting, and I’ve documented my process and thought journey for each one. Whether you’re looking for a walkthrough or just exploring different security challenges, you’ll find detailed explanations of my approach and techniques here.

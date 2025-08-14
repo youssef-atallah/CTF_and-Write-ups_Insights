@@ -60,7 +60,7 @@ then i set the new token
 
 ![image.png](Web%20Just%20What%20you%20Think%2024ca4a579e0d8069ae54f54bd5239881/image%204.png)
 
-and it works i could change my role from user to admin and use the admin funtionality and got the flag
+And it worked — I was able to change my role from user to admin, access the admin functionality, and retrieve the flag.
 
 ![image.png](Web%20Just%20What%20you%20Think%2024ca4a579e0d8069ae54f54bd5239881/image%205.png)
 

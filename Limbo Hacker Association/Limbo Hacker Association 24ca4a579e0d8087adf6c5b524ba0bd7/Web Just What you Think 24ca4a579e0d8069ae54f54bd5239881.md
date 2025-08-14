@@ -4,19 +4,47 @@
 
 **Link**: [https://ctf-1-vo9x.vercel.app/](https://ctf-1-vo9x.vercel.app/)
 
-first step, i created an account from the register functionality
+# Web | Just What you Think
 
-when i check the admin functionality i got : `You are not admin.` 
+### Coin: 100
 
-so my account privigile or role is `user` 
+**Link**: https://ctf-1-vo9x.vercel.app/
 
-i knew this after analysing the jwt token on [jwt.io](http://jwt.io) 
+### Step 1: Registering an Account
+
+- I started by registering a new account using the **register** functionality on the website.
+
+### Step 2: Testing Admin Access
+
+- I reviewed the admin functions after logging in
+- The response was:
+    
+    `You are not admin.`
+    
+- This indicates that my current account does **not** have admin privileges.
+
+### Step 3: Inspecting the JWT
+
+- I captured the **JWT (JSON Web Token)** issued after logging in.
+- Then, I decoded it using [jwt.io](http://jwt.io/).
+- From the decoded payload, I observed that my role or privilege level was set to:`"role": "user"`
 
 ![image.png](Web%20Just%20What%20you%20Think%2024ca4a579e0d8069ae54f54bd5239881/image.png)
 
-so now we need to analyise the jwt setup or configration 
+### Step 4: Analyzing the JWT Setup
 
-first i checked for the sercret key for the jwt signature to test its strongsts
+To escalate privileges, I needed to analyze how the JWT was being signed.
+
+- My goal was to determine if the JWT signature was using a **weak or common secret key**.
+- I suspected that the application might be signing tokens using a predictable or default key.
+
+### Step 5: Brute-Forcing the Secret Key
+
+- I used a Python script to brute-force the JWT secret using a wordlist of common/default secrets.
+- You can find the script I used here: [python code with the top 100  default secrets including the one in the challenge `subersecret`](https://www.notion.so/python-code-with-the-top-100-default-secrets-including-the-one-in-the-challenge-subersecret-24ca4a579e0d802e9a53ea9bcb6dc889?pvs=21)
+- After running the script, I discovered that the JWT secret key is:`supersecret`
+- 
+
 
 i used this python [code](Web%20Just%20What%20you%20Think%2024ca4a579e0d8069ae54f54bd5239881.md) with the most and basic defualt secrets, 
 

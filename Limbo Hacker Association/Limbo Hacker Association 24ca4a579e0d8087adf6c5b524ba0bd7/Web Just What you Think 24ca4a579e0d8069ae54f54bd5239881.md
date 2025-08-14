@@ -46,10 +46,6 @@ To escalate privileges, I needed to analyze how the JWT was being signed.
 - 
 
 
-i used this python [code](Web%20Just%20What%20you%20Think%2024ca4a579e0d8069ae54f54bd5239881.md) with the most and basic defualt secrets, 
-
-and i found the secret key: it is `supersecret`
-
 ![image.png](Web%20Just%20What%20you%20Think%2024ca4a579e0d8069ae54f54bd5239881/image%201.png)
 
 then i verified it on jwt.io:
